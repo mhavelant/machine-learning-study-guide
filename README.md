@@ -61,6 +61,12 @@ https://careers.coursera.org/data-scientist/
     1. https://www.coursera.org/learn/language-processing
     1. https://www.coursera.org/learn/hadron-collider-machine-learning
 
+# Useful links
+* https://www.kaggle.com/
+    * Tutorials, datasets and community.
+* https://www.floydhub.com/
+    * Cloud-GPU training for cheap.
+
 # Additional learning material 
 ## Courses
 * https://www.udemy.com/machine-learning-course-with-python/learn/v4/overview
@@ -100,11 +106,6 @@ https://careers.coursera.org/data-scientist/
 
 ## Books
 * http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html
-
-# Useful links
-
-* https://www.kaggle.com/
-    * Tutorials, datasets and community.
 
 ## Learning paths, course suggestions 
 * https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html

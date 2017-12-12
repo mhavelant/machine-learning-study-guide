@@ -6,6 +6,13 @@ data science, machine learning and things like that.
 The main goal is to get to a level where I can confidently and independently implement ML solutions for 
 various problems, mainly with NNs and its variants.
 
+## Additional research/courses needed
+* conversation ux
+* neuro linguistic programming
+* chat as an interface
+* chatbots for messenger, viber, etc.
+* natural language processing
+
 # Main roadmap
 This list was compiled mainly from the coursera learning path for data scientist.
 https://careers.coursera.org/data-scientist/
